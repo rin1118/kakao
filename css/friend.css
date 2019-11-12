@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+.friend--lg{
+    margin-bottom: 17px;
+}
+
 .friend .friend__avatar {
     width: 50px;
     height: 50px;
@@ -11,7 +15,7 @@
 }
 
 .friend__avatar.g-avatar {
-    width: 70px;
+    width: 65px;
 }
 
 

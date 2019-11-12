@@ -10,17 +10,22 @@
 
 .chats-body {
     padding: 0px;
-    padding-top: 100px;
+    padding-top: 120px;
     background-image:url("../images/back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     /* background-size: cover; */
-    min-height: 130vh;                   /* 최소 높이, vh : viewport(screen)의 100% 높이 */
+    min-height: 110vh;                   /* 최소 높이, vh : viewport(screen)의 100% 높이 */
 }
 
-.chats-body .header,
+.chats-body .header {
+    padding: 0px 15px;
+    margin: 0px 0px;
+    margin-bottom: 30px;
+}
+
 .chats-body .status-bar {
-    padding: 5px 20px;
+    padding: 15px 20px;
 }
 
 
