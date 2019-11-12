@@ -1,2 +1,0 @@
-# kakao
-kakao-clone
